@@ -1,5 +1,5 @@
 # RUCompanion App
-![Github Logo](ru_companion_logo.png)
+![Logo](ru_companion_logo.png)
 
 ## What is it?
 The app is intended to assist Rhodes University students with the following:
@@ -8,5 +8,5 @@ The app is intended to assist Rhodes University students with the following:
 * Recieve push notifications of upcoming classes & tests
 
 ## Download
-[GitHub](https://play.google.com/store/apps/details?id=apps.studios.bt.rutimetable)
+[Play store](https://play.google.com/store/apps/details?id=apps.studios.bt.rutimetable)
 
