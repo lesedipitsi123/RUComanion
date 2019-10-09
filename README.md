@@ -8,6 +8,7 @@
 </a>
 </div>
 
+</br></br>
 ## What is it?
 The app allows Rhodes University students to:
 * Plan their day by creating their custom agenda
