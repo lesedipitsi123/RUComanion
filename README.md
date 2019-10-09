@@ -1,5 +1,5 @@
 # RUCompanion App
-<img src="ru_companion_logo.png" align="left" width="200" hspace="10" vspace="10">
+<img src="ru_companion_logo.png" >
 <div style="display:flex;" >
 <a href="https://play.google.com/store/apps/details?id=org.horaapps.leafpic">
     <img alt="Get it on Google Play"
