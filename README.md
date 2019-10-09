@@ -1,15 +1,13 @@
 # RUCompanion App
-<img src="ru_companion_logo.png" >
+<img src="ru_companion_logo.png" align="left" width="200" hspace="10" vspace="10">
 <div style="display:flex;" >
 <a href="https://play.google.com/store/apps/details?id=org.horaapps.leafpic">
     <img alt="Get it on Google Play"
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
-    
-</br>
-</br>
 </div>
+</br>
 
 ## What is it?
 The app allows Rhodes University students to:
