@@ -8,12 +8,15 @@ The app allows Rhodes University students to:
 * Recieve push notifications of upcoming classes & tests
 
 ## Screenshots
-![screen 1](art/sc1.png)
-![screen 2](art/sc2.png)
-![screen 3](art/sc3.png)
-![screen 4](art/sc4.png)
-![screen 5](art/sc5.png)
-![screen 6](art/sc6.png)
+<div style="display:flex;" >
+<img  src="art/sc1.png" width="19%" >
+<img style="margin-left:10px;" src="art/sc2.png" width="19%" >
+<img style="margin-left:10px;" src="art/sc3.png" width="19%" >
+<img style="margin-left:10px;" src="art/sc4.png" width="19%" >
+<img style="margin-left:10px;" src="art/sc5.png" width="19%" >
+<img style="margin-left:10px;" src="art/sc6.png" width="19%" >
+
+</div
 
 ## Where to get it?
 Check out the RUCompanion from Google Play -
