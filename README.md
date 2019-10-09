@@ -2,10 +2,18 @@
 ![Feature](banner.png)
 
 ## What is it?
-The app is intended to assist Rhodes University students with the following:
+The app allows Rhodes University students to:
 * Plan their day by creating their custom agenda
 * View their weekly/daily timetable
 * Recieve push notifications of upcoming classes & tests
+
+## Screenshots
+[screen 1] (art/sc1.png)
+[screen 2] (art/sc2.png)
+[screen 3] (art/sc3.png)
+[screen 4] (art/sc4.png)
+[screen 5] (art/sc5.png)
+[screen 6] (art/sc6.png)
 
 ## Where to get it?
 Check out the RUCompanion from Google Play -
