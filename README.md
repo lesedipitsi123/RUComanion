@@ -1,6 +1,7 @@
 # RUCompanion App
 <img src="banner.png">
-Check it out
+
+### Check it out
 <div style="display:flex;" >
 <a href="https://play.google.com/store/apps/details?id=org.horaapps.leafpic">
     <img alt="Get it on Google Play"
