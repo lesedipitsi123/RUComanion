@@ -6,9 +6,11 @@
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>
+    
+</br>
+</br>
 </div>
-</br>
-</br>
+
 ## What is it?
 The app allows Rhodes University students to:
 * Plan their day by creating their custom agenda
